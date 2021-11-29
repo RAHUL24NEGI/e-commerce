@@ -1,0 +1,164 @@
+
+/*--============headersectionends==============-->*/
+.navlinks
+{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+/*--============headersectionends==============-->*/
+
+
+
+/*============carousel section starts here===============*/
+.slidebg
+{
+  background-color: #E0E0E0;
+}
+
+.slideimg
+{
+  margin:auto;
+}
+/*============carousel section ends here===============*/
+
+
+/*=============shop by category starts here============== -->*/
+h1
+{
+  padding-top: 30px;
+  padding-bottom: 30px;
+  font-family: 'Nunito', sans-serif;
+color: #3646F2  ;
+text-align: center;
+background-color: inherit;
+}
+
+.col
+{
+  padding-bottom: 30px;
+}
+
+/*=============shop by category end here============== -->*/
+
+
+/*products starts */
+.pcontainer
+{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+/*products ends */
+
+
+
+
+/*feature starts here*/
+.fcontainer
+{
+  padding-left: 10%;
+  padding-top: 70px;
+  padding-right: 10%;
+background-image: linear-gradient(to bottom, #8cb7f6, #619af8, #387af7, #1a58f0, #232de3);
+}
+
+.fpara
+{
+
+padding-left: 15px;
+padding-right: 15px;
+}
+
+
+.fsimage
+{
+  margin: auto;
+  height: 100px;
+  width: 100px;
+}
+
+.fcard
+{
+  background-image: linear-gradient(to bottom, #8cb7f6, #619af8, #387af7, #1a58f0, #232de3);
+  text-align: center;
+  color: white;
+}
+/*feature end here*/
+
+/*footer starts here*/
+.footer_title
+{
+  text-align: center;
+}
+
+
+a:link
+{
+  color: #265301;
+  text-decoration: none;
+}
+
+a:hover {
+  border-bottom: 1px solid;
+  background: #CDFEAA;
+}
+
+.backtop
+{
+ text-align: right;
+}
+
+
+/*footer end here*/
+
+
+
+
+
+/*product pagehere*/
+/*product pagehere*/
+/*product pagehere*/
+
+.filter
+{
+  padding-bottom: 50px;
+  padding-top: 100px;
+  font-size: 30;
+  padding-left: 50px;
+  font-family: sans-serif;
+}
+
+table, td ,tr, th{
+width: auto;
+  padding: 15px 25px 15px 25px;
+  font-size: 20;
+}
+
+.ph
+{
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  color:#387af7;
+  font-size: 40px;
+}
+
+
+.bg_cart_1
+{
+  background-image: linear-gradient(to left, #8cb7f6, #619af8, #387af7, #1a58f0, #232de3);
+}
+.cartcontainer
+{
+  margin-top: 0;
+}
+
+.checkoutc
+{
+  background-image: linear-gradient(to bottom, #8cb7f6, #619af8, #387af7, #1a58f0, #232de3);
+}
+
+.contactc
+{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
